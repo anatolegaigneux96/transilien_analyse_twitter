@@ -1,0 +1,117 @@
+# Rapport Structuré des Faits Marquants - Voix du Client Transilien
+
+## Introduction
+
+Ce rapport présente les cinq faits marquants, positifs et négatifs, identifiés à partir des résumés des tweets concernant l'expérience des voyageurs sur le réseau Transilien. Ces faits marquants sont sélectionnés en se basant sur leur impact et leur pertinence par rapport aux thématiques d'information voyageur.
+
+## Faits Marquants Négatifs
+
+### 1. Incident Majeur sur la Ligne RER A
+- **Date**: 2024-10-11 21:20:07
+- **Niveau d'impact**: Élevé
+- **Thématiques**:
+  - Perturbation: Accident
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Un accident mortel sur la ligne du RER A a causé une perturbation majeure. L'information sur cet incident a été relayée via le feed Twitter, mais des informations complémentaires semblaient manquer.
+
+### 2. Retards et Manque d'Information sur la Ligne RER D
+- **Date**: 2024-10-11 21:39:12
+- **Niveau d'impact**: Élevé
+- **Thématiques**:
+  - Perturbation: Retards
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**:
+  - En gare: Annonce sonore, Affichage sur écran
+  - À bord: Annonce sonore, Affichage sur écran
+  - Digital: Feed Twitter
+- **Résumé**:
+  Un voyageur a exprimé son mécontentement d'être coincé dans le RER D sans information adéquate, soulignant un retard et un manque de communication sur les différents canaux disponibles.
+
+### 3. Frustration due aux Travaux Fréquents
+- **Date**: 2024-10-11 21:29:00
+- **Niveau d'impact**: Élevé
+- **Thématiques**:
+  - Perturbation: Travaux
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**: Non spécifié
+- **Résumé**:
+  Un utilisateur a critiqué Transilien pour les travaux fréquents sur la ligne pendant les week-ends, causant des perturbations. Il a également souligné un manque d'information concernant ces travaux.
+
+### 4. Panne de Train sur la Ligne RER D
+- **Date**: 2024-10-11 21:16:19
+- **Niveau d'impact**: Modéré
+- **Thématiques**:
+  - Perturbation: Retards
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Une panne de train sur la ligne RER D a causé des retards. Le conducteur suivait la procédure de dépannage, mais il y avait un manque d'information pour les voyageurs.
+
+### 5. Manque d'Information sur la Ligne RER E
+- **Date**: 2024-10-11 21:16:43
+- **Niveau d'impact**: Élevé
+- **Thématiques**:
+  - Perturbation: Retards
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Un utilisateur a exprimé son mécontentement face à une perturbation sur la ligne RER E, mentionnant un manque d'information sur Twitter.
+
+## Faits Marquants Positifs
+
+### 1. Bon Niveau d'Information Voyageur via Twitter
+- **Date**: 2024-10-11 23:43:46
+- **Niveau d'impact**: Faible
+- **Thématiques**:
+  - Information Voyageur: Bon niveau d'information
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Un utilisateur a souligné que le RER B permet de se rendre à Parc des Expositions en 5 minutes à pied, mettant en avant un bon niveau d'information voyageur via Twitter.
+
+### 2. Information sur le Trafic Perturbé Bien Annoncée
+- **Date**: 2024-10-11 21:39:02
+- **Niveau d'impact**: Faible
+- **Thématiques**:
+  - Information Voyageur: Bon niveau d'information
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Un utilisateur a trouvé que l'information sur le trafic perturbé était bien annoncée à la fois par la RATP et la SNCF, en particulier sur Twitter.
+
+### 3. Satisfaction Générale sur la Ligne J
+- **Date**: 2024-10-11 22:51:18
+- **Niveau d'impact**: Faible
+- **Thématiques**:
+  - Expérience à Bord: Satisfaction Générale
+- **Résumé**:
+  Un tweet exprime une satisfaction générale concernant la ligne J, sans mentionner de détails spécifiques ou de problèmes.
+
+### 4. Information Continue sur le Trafic
+- **Date**: 2024-10-11 21:30:06
+- **Niveau d'impact**: Faible
+- **Thématiques**:
+  - Information Voyageur: Information continue
+- **Canaux de communication**:
+  - Digital: Feed Twitter
+- **Résumé**:
+  Le tweet informe les voyageurs qu'une session d'information sur le trafic est terminée et qu'une nouvelle session commencera le lendemain à 06h. Il souhaite également une bonne fin de soirée et une bonne nuit aux voyageurs.
+
+### 5. Horaires en Temps Réel Disponibles
+- **Date**: 2024-10-11 22:54:26
+- **Niveau d'impact**: Faible
+- **Thématiques**:
+  - Information Voyageur: Manque d'information
+- **Canaux de communication**:
+  - Digital: Blog du RER B, Île-de-France Mobilités, SNCF Connect, Bonjour RATP
+- **Résumé**:
+  Le tweet informe les voyageurs qu'ils peuvent consulter les horaires en temps réel et pour les dates de leur choix via le blog du RER B ou les applications Île-de-France Mobilités, SNCF Connect et Bonjour RATP.
+
+## Conclusion
+
+Les faits marquants identifiés soulignent des problèmes récurrents liés à un manque d'information en temps réel et à des perturbations sur le réseau Transilien, particulièrement sur les lignes RER D et E. En revanche, certains tweets mettent en avant une satisfaction générale et un bon niveau d'information sur les horaires de service. Ces points doivent être pris en compte pour améliorer l'expérience des voyageurs et renforcer la communication sur les différents canaux.
