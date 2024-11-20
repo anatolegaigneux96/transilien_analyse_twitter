@@ -42,6 +42,9 @@ with st.expander("Approche"):
 # Obtenir la liste des fichiers dans le répertoire "summary_reports"
 files = os.listdir("summary_reports")
 
+# Sort files
+files.sort()
+
 # Créer un menu déroulant pour sélectionner un fichier
 selected_file = st.selectbox("Sélectionnez un fichier à afficher :", files)
 
