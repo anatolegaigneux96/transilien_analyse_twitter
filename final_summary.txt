@@ -1,129 +1,75 @@
-# Rapport sur les Tweets Pertinents pour l'Amélioration de l'Expérience Voyageur de Transilien
+# Rapport sur les Tweets Pertinents pour l'Amï¿½lioration de l'Expï¿½rience Voyageur de Transilien
 
-## 1. Identification des Événements et Comptage des Tweets
+## 1. Identification des ï¿½vï¿½nements et Comptage des Tweets
 
-Après analyse des résumés des tweets, plusieurs événements récurrents ont été identifiés. Voici le dénombrement des tweets par événement :
+Aprï¿½s analyse des rï¿½sumï¿½s des tweets, plusieurs ï¿½vï¿½nements rï¿½currents ont ï¿½tï¿½ identifiï¿½s. Voici le dï¿½nombrement des tweets par ï¿½vï¿½nement :
 
-| Événement                                           | Nombre de Tweets |
+| ï¿½vï¿½nement                                           | Nombre de Tweets |
 |----------------------------------------------------|------------------|
-| Problèmes d'information sur le RER E               | 15               |
+| Problï¿½mes d'information sur le RER E               | 15               |
 | Retards sur la ligne RER A                          | 10               |
 | Insatisfactions concernant le service client        | 8                |
-| Annonces de perturbations dues à des travaux        | 7                |
-| Comportements inappropriés à bord du RER E         | 5                |
-| Problèmes de sécurité à la gare                     | 4                |
+| Annonces de perturbations dues ï¿½ des travaux        | 7                |
+| Comportements inappropriï¿½s ï¿½ bord du RER E         | 5                |
+| Problï¿½mes de sï¿½curitï¿½ ï¿½ la gare                     | 4                |
+
 
 ## 2. Top 5 des Faits Marquants
 
-### Faits Négatifs
-
-1. **Problèmes d'information sur le RER E**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 15
-   - **Thématiques :** Information Voyageur
-   - **Sous-thématiques :** Manque d'information
-
-2. **Retards sur la ligne RER A**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 10
-   - **Thématiques :** Perturbation
-   - **Sous-thématiques :** Retards
-
-3. **Insatisfactions concernant le service client**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 8
-   - **Thématiques :** Service Client
-   - **Sous-thématiques :** Manque d'information
-
-4. **Comportements inappropriés à bord du RER E**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 5
-   - **Thématiques :** Expérience à Bord
-   - **Sous-thématiques :** Comportement inapproprié
-
-5. **Problèmes de sécurité à la gare**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 4
-   - **Thématiques :** Sécurité
-   - **Sous-thématiques :** Insécurité
-
-### Faits Positifs
-
-1. **Améliorations de l'information voyageur sur le RER E**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 5
-   - **Thématiques :** Information Voyageur
-   - **Sous-thématiques :** Bon niveau d'information
-
-2. **Initiatives visant à diminuer les incivilités**
-   - **Date :** 2024-09-11
-   - **Impact sur les voyageurs :** Élevé
-   - **Nombre de Tweets :** 5
-   - **Thématiques :** Expérience à Bord
-   - **Sous-thématiques :** Comportement des voyageurs
-
-## 3. Détails des Faits Marquants
-
-### Problèmes d'information sur le RER E
+### Problï¿½mes d'information sur le RER E
 - **Date :** 2024-09-11
-- **Niveau d'impact :** Élevé
+- **Niveau d'impact :** ï¿½levï¿½
 - **Nombre de Tweets :** 15
-- **Thématiques :** Information Voyageur
-- **Sous-thématiques :** Manque d'information
-- **Description :** Les utilisateurs expriment de vives frustrations sur le manque d'informations concernant les horaires et les perturbations sur la ligne RER E. Les usagers sont particulièrement agacés par l'absence de communication claire.
+- **Thï¿½matiques :** Information Voyageur
+- **Sous-thï¿½matiques :** Manque d'information
+- **Description :** Les utilisateurs expriment de vives frustrations sur le manque d'informations concernant les horaires et les perturbations sur la ligne RER E. Les usagers sont particuliï¿½rement agacï¿½s par l'absence de communication claire.
 - **Exemples de citations :**
-  - "Faut vraiment être des trdc pour faire ça."
-  - "Je ne sais même pas si mon train va arriver."
+  - "Faut vraiment ï¿½tre des trdc pour faire ï¿½a."
+  - "Je ne sais mï¿½me pas si mon train va arriver."
 
 ### Retards sur la ligne RER A
 - **Date :** 2024-09-11
-- **Niveau d'impact :** Élevé
+- **Niveau d'impact :** ï¿½levï¿½
 - **Nombre de Tweets :** 10
-- **Thématiques :** Perturbation
-- **Sous-thématiques :** Retards
-- **Description :** Les retards fréquents sur le RER A perturbent considérablement la vie quotidienne des usagers. Les témoignages révèlent un impact sur leur ponctualité et leur satisfaction.
+- **Thï¿½matiques :** Perturbation
+- **Sous-thï¿½matiques :** Retards
+- **Description :** Les retards frï¿½quents sur le RER A perturbent considï¿½rablement la vie quotidienne des usagers. Les tï¿½moignages rï¿½vï¿½lent un impact sur leur ponctualitï¿½ et leur satisfaction.
 - **Exemples de citations :**
-  - "J’ai tellement galéré aujourd'hui."
+  - "Jï¿½ai tellement galï¿½rï¿½ aujourd'hui."
   - "Encore un retard, c'est devenu habituel."
 
 ### Insatisfactions concernant le service client
 - **Date :** 2024-09-11
-- **Niveau d'impact :** Élevé
+- **Niveau d'impact :** ï¿½levï¿½
 - **Nombre de Tweets :** 8
-- **Thématiques :** Service Client
-- **Sous-thématiques :** Manque d'information
-- **Description :** Les utilisateurs expriment leur mécontentement face au service client, notant une absence de réponses adéquates et de soutien en cas de problèmes.
+- **Thï¿½matiques :** Service Client
+- **Sous-thï¿½matiques :** Manque d'information
+- **Description :** Les utilisateurs expriment leur mï¿½contentement face au service client, notant une absence de rï¿½ponses adï¿½quates et de soutien en cas de problï¿½mes.
 - **Exemples de citations :**
-  - "Le service client ne sait pas répondre aux questions, c'est désespérant."
-  - "Ils ne nous aident pas du tout quand il y a un problème."
+  - "Le service client ne sait pas rï¿½pondre aux questions, c'est dï¿½sespï¿½rant."
+  - "Ils ne nous aident pas du tout quand il y a un problï¿½me."
 
-### Comportements inappropriés à bord du RER E
+### Comportements inappropriï¿½s ï¿½ bord du RER E
 - **Date :** 2024-09-11
-- **Niveau d'impact :** Élevé
+- **Niveau d'impact :** ï¿½levï¿½
 - **Nombre de Tweets :** 5
-- **Thématiques :** Expérience à Bord
-- **Sous-thématiques :** Comportement inapproprié
-- **Description :** Les comportements inappropriés dans le RER E ont suscité des inquiétudes parmi les voyageurs, affectant leur confort et sécurité.
+- **Thï¿½matiques :** Expï¿½rience ï¿½ Bord
+- **Sous-thï¿½matiques :** Comportement inappropriï¿½
+- **Description :** Les comportements inappropriï¿½s dans le RER E ont suscitï¿½ des inquiï¿½tudes parmi les voyageurs, affectant leur confort et sï¿½curitï¿½.
 - **Exemples de citations :**
-  - "Les gens ne comprennent pas où est le terminus."
-  - "Ça devient dangereux dans certaines rames."
+  - "Les gens ne comprennent pas oï¿½ est le terminus."
+  - "ï¿½a devient dangereux dans certaines rames."
 
-### Améliorations de l'information voyageur sur le RER E
+### Amï¿½liorations de l'information voyageur sur le RER E
 - **Date :** 2024-09-11
-- **Niveau d'impact :** Élevé
+- **Niveau d'impact :** ï¿½levï¿½
 - **Nombre de Tweets :** 5
-- **Thématiques :** Information Voyageur
-- **Sous-thématiques :** Bon niveau d'information
-- **Description :** Malgré les problèmes, des améliorations ont été notées dans la communication concernant les horaires et les perturbations, ce qui a été bien accueilli par certains utilisateurs.
+- **Thï¿½matiques :** Information Voyageur
+- **Sous-thï¿½matiques :** Bon niveau d'information
+- **Description :** Malgrï¿½ les problï¿½mes, des amï¿½liorations ont ï¿½tï¿½ notï¿½es dans la communication concernant les horaires et les perturbations, ce qui a ï¿½tï¿½ bien accueilli par certains utilisateurs.
 - **Exemples de citations :**
-  - "Les trains partent actuellement à l'heure."
+  - "Les trains partent actuellement ï¿½ l'heure."
   - "Enfin une bonne communication sur les retards."
 
-## Conclusion
-Ce rapport met en lumière les préoccupations majeures des voyageurs utilisant les services Transilien, en particulier sur les lignes RER. Les problèmes d'information et les retards sont des sujets récurrents, tandis que des améliorations dans la communication ont été notées. Les initiatives visant à réduire les comportements inappropriés à bord sont également appréciées, reflétant un besoin de sécurité et de confort pour les usagers.
+## 3. Conclusion
+Ce rapport met en lumiï¿½re les prï¿½occupations majeures des voyageurs utilisant les services Transilien, en particulier sur les lignes RER. Les problï¿½mes d'information et les retards sont des sujets rï¿½currents, tandis que des amï¿½liorations dans la communication ont ï¿½tï¿½ notï¿½es. Les initiatives visant ï¿½ rï¿½duire les comportements inappropriï¿½s ï¿½ bord sont ï¿½galement apprï¿½ciï¿½es, reflï¿½tant un besoin de sï¿½curitï¿½ et de confort pour les usagers.
