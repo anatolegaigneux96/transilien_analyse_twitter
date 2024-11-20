@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 
 # Configurer la page
 st.set_page_config(
@@ -28,9 +29,32 @@ with st.expander("Contexte et Objectif"):
         unsafe_allow_html=True,
     )
 
-# Lire le contenu du fichier final_summary.txt
-with open("final_summary.txt", "r", encoding="cp1252") as file:
-    content = file.read()
+# Ajouter l'approche llm, langchain, langgraph, etc. et afficher l'image graph.png'
+with st.expander("Approche"):
+    st.markdown(
+        """
+    Nous utilisons un modèle de langage (LLM) pour résumer les tweets. L'approche est basée sur la méthode MapReduce, où les tweets sont d'abord mappés, puis réduits pour obtenir un résumé global.
+    """,
+        unsafe_allow_html=True,
+    )
+    st.image("graph.png", use_container_width=False)
+
+# Obtenir la liste des fichiers dans le répertoire "summary_reports"
+files = os.listdir("summary_reports")
+
+# Créer un menu déroulant pour sélectionner un fichier
+selected_file = st.selectbox("Sélectionnez un fichier à afficher :", files)
+
+try:
+    # Lire le contenu du fichier sélectionné
+    with open(
+        os.path.join("summary_reports", selected_file), "r", encoding="utf-8"
+    ) as f:
+        content = f.read()
+except UnicodeDecodeError:
+    # Lire le contenu du fichier sélectionné
+    with open(os.path.join("summary_reports", selected_file), "r") as f:
+        content = f.read()
 
 # Afficher le contenu avec le formatage approprié
 st.divider()

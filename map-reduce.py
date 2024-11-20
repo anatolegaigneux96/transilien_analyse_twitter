@@ -18,6 +18,7 @@ import asyncio
 import pprint
 from langchain_community.callbacks.manager import get_openai_callback
 import argparse
+import os
 
 
 # Load environment variables
@@ -227,6 +228,13 @@ if __name__ == "__main__":
     )
 
     final_summary = asyncio.run(get_summary_report(tweets_df))
+    test_number = 1
+    file_name = f"./summary_reports/final_summary - {args.limit} tweets - {llm.model_name} - test {test_number}.txt"
+
+    while os.path.exists(file_name):
+        test_number += 1
+        file_name = f"./summary_reports/final_summary - {args.limit} tweets - {llm.model_name} - test {test_number}.txt"
+
     # Dump the file
-    with open("final_summary.txt", "w") as f:
+    with open(file_name, "w", encoding="utf-8") as f:
         f.write(final_summary)

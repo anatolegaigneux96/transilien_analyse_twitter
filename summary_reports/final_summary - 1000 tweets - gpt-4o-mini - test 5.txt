@@ -1,0 +1,75 @@
+# Rapport sur les Faits Marquants des Tweets concernant l'Expérience Voyageur de Transilien
+
+## Introduction
+Ce rapport a pour but de résumer les principales préoccupations exprimées par les voyageurs sur les lignes Transilien à travers l’analyse des tweets récents. Les événements sont classés par leur impact sur les voyageurs et le nombre de tweets les mentionnant. 
+
+### 1. Comptage des Tweets par Événement
+Après une analyse approfondie, les événements suivants ont été identifiés avec le nombre de tweets les mentionnant :
+
+| Événement                                      | Nombre de Tweets |
+|------------------------------------------------|------------------|
+| Perturbations sur le RER E                      | 10               |
+| Manque d'information sur les horaires des trains | 8                |
+| Retards sur le RER A                            | 7                |
+| Améliorations des infrastructures                | 5                |
+| Sécurité à la gare de Pontault-Combault        | 4                |
+
+### 2. Top 5 des Faits Marquants
+
+#### 2.1. Perturbations sur le RER E
+- **Date** : 11 septembre 2024
+- **Niveau d'impact voyageur** : Élevé
+- **Nombre de tweets** : 10
+- **Thématiques** : Perturbation, Information Voyageur
+- **Sous-thématiques** : Retards, Manque d'information
+- **Canaux associés** : Aucun mentionné
+- **Description de l'événement** : Des perturbations fréquentes sur la ligne RER E ont été signalées, causées par des bagages oubliés et des pannes de trains. Les voyageurs expriment un fort mécontentement face à l'absence d'informations claires.
+  - **Citations** :
+    - "Trafic fortement ralenti sur la ligne E entre Villiers le Bel et Corbeil Essonnes."
+
+#### 2.2. Manque d'information sur les horaires des trains
+- **Date** : 11 septembre 2024
+- **Niveau d'impact voyageur** : Élevé
+- **Nombre de tweets** : 8
+- **Thématiques** : Information Voyageur
+- **Sous-thématiques** : Manque d'information
+- **Canaux associés** : Digital
+- **Description de l'événement** : De nombreux usagers se plaignent du manque d'informations sur les horaires de retour, en particulier après les week-ends. Ils demandent des précisions pour éviter des désagréments.
+  - **Citations** :
+    - "Dimanche soir, en général, les gens rentrent plus tôt. Pourquoi n'y a-t-il pas d'informations sur les horaires?"
+
+#### 2.3. Retards sur le RER A
+- **Date** : 11 septembre 2024
+- **Niveau d'impact voyageur** : Élevé
+- **Nombre de tweets** : 7
+- **Thématiques** : Perturbation, Information Voyageur
+- **Sous-thématiques** : Retards, Manque d'information
+- **Canaux associés** : Aucun mentionné
+- **Description de l'événement** : Les retards fréquents sur la ligne RER A provoquent de la frustration parmi les usagers, notamment en période de pointe. Les utilisateurs demandent des comptes rendus plus transparents sur les raisons des retards.
+  - **Citations** :
+    - "Putain même le week-end, le RER A est toujours en retard."
+
+#### 2.4. Améliorations des infrastructures
+- **Date** : 11 septembre 2024
+- **Niveau d'impact voyageur** : Positif
+- **Nombre de tweets** : 5
+- **Thématiques** : Expérience en Gare
+- **Sous-thématiques** : Amélioration des infrastructures
+- **Canaux associés** : Aucun mentionné
+- **Description de l'événement** : Des utilisateurs expriment leur satisfaction concernant les nouvelles infrastructures de la ligne RER E, qui sont jugées accueillantes et accessibles.
+  - **Citations** :
+    - "Elles sont sympa les nouvelles gares de la ligne."
+
+#### 2.5. Sécurité à la gare de Pontault-Combault
+- **Date** : 11 septembre 2024
+- **Niveau d'impact voyageur** : Élevé
+- **Nombre de tweets** : 4
+- **Thématiques** : Sécurité
+- **Sous-thématiques** : Incidents de violence
+- **Canaux associés** : En gare
+- **Description de l'événement** : Un incident grave a été signalé à la gare de Pontault-Combault, où un jeune a été agressé, ce qui soulève des préoccupations concernant la sécurité des voyageurs.
+  - **Citations** :
+    - "Après les coups de hache dans le RER E, un jeune d’Ozoir agressé au tournevis à la gare."
+
+### Conclusion
+L'analyse des tweets révèle des préoccupations majeures des voyageurs liées aux perturbations, au manque d'informations claires sur les horaires, ainsi qu'à la sécurité. Il est impératif que Transilien prenne des mesures pour améliorer la communication et garantir la sécurité des usagers afin d'accroître la satisfaction client. Les améliorations infrastructurelles doivent également s'accompagner d'une communication adéquate pour maximiser leur impact positif sur l'expérience voyageur.

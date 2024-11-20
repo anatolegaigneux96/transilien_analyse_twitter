@@ -14,7 +14,23 @@ Apr�s analyse des r�sum�s des tweets, plusieurs �v�nements r�current
 | Probl�mes de s�curit� � la gare                     | 4                |
 
 
-## 2. Top 5 des Faits Marquants
+### Faits Positifs
+
+1. **Am�liorations de l'information voyageur sur le RER E**
+   - **Date :** 2024-09-11
+   - **Impact sur les voyageurs :** �lev�
+   - **Nombre de Tweets :** 5
+   - **Th�matiques :** Information Voyageur
+   - **Sous-th�matiques :** Bon niveau d'information
+
+2. **Initiatives visant � diminuer les incivilit�s**
+   - **Date :** 2024-09-11
+   - **Impact sur les voyageurs :** �lev�
+   - **Nombre de Tweets :** 5
+   - **Th�matiques :** Exp�rience � Bord
+   - **Sous-th�matiques :** Comportement des voyageurs
+
+## 3. D�tails des Faits Marquants
 
 ### Probl�mes d'information sur le RER E
 - **Date :** 2024-09-11
@@ -71,5 +87,5 @@ Apr�s analyse des r�sum�s des tweets, plusieurs �v�nements r�current
   - "Les trains partent actuellement � l'heure."
   - "Enfin une bonne communication sur les retards."
 
-## 3. Conclusion
+## Conclusion
 Ce rapport met en lumi�re les pr�occupations majeures des voyageurs utilisant les services Transilien, en particulier sur les lignes RER. Les probl�mes d'information et les retards sont des sujets r�currents, tandis que des am�liorations dans la communication ont �t� not�es. Les initiatives visant � r�duire les comportements inappropri�s � bord sont �galement appr�ci�es, refl�tant un besoin de s�curit� et de confort pour les usagers.

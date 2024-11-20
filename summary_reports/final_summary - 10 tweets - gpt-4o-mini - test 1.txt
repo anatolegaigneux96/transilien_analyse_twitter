@@ -1,0 +1,99 @@
+# Rapport sur les faits marquants des tweets concernant Transilien
+
+## 1. Identification des événements et comptage des tweets
+
+### Événements identifiés :
+- **Événement 1 : Accident mortel sur le RER A**
+  - **Nombre de tweets :** 1
+  - **Date :** 2024-10-11
+  - **Niveau d'impact voyageur :** Élevé
+  - **Thématiques :** Perturbation, Information Voyageur
+  - **Sous-thématiques :** Retards, Manque d'information
+  - **Canaux associés :** Aucun mentionné
+
+- **Événement 2 : Problèmes de service client et remboursement**
+  - **Nombre de tweets :** 1
+  - **Date :** 2024-10-11
+  - **Niveau d'impact voyageur :** Élevé
+  - **Thématiques :** Service Client, Information Voyageur
+  - **Sous-thématiques :** Manque d'information, Service non disponible
+  - **Canaux associés :** Aucun mentionné
+
+- **Événement 3 : Problèmes avec les filets de protection animale sur le RER C**
+  - **Nombre de tweets :** 2
+  - **Date :** 2024-10-11
+  - **Niveau d'impact voyageur :** Élevé
+  - **Thématiques :** Service Client
+  - **Sous-thématiques :** Protection animale, Mauvaise gestion
+  - **Canaux associés :** Aucun mentionné
+
+- **Événement 4 : Manque d'information sur les lignes RER B et D**
+  - **Nombre de tweets :** 2
+  - **Date :** 2024-10-11
+  - **Niveau d'impact voyageur :** Faible
+  - **Thématiques :** Information Voyageur
+  - **Sous-thématiques :** Manque d'information
+  - **Canaux associés :** Aucun mentionné
+
+- **Événement 5 : Retards sur le RER A suite à une altercation entre voyageurs**
+  - **Nombre de tweets :** 1
+  - **Date :** 2024-10-11
+  - **Niveau d'impact voyageur :** Élevé
+  - **Thématiques :** Perturbation, Information Voyageur
+  - **Sous-thématiques :** Retards
+  - **Canaux associés :** Aucun mentionné
+
+## 2. Top 5 des faits marquants
+
+### Fait Marquant 1 : Accident mortel sur le RER A
+- **Date :** 2024-10-11
+- **Niveau d'impact :** Élevé
+- **Nombre de tweets :** 1
+- **Thématiques :** Perturbation, Information Voyageur
+- **Sous-thématiques :** Retards, Manque d'information
+- **Canaux associés :** Aucun mentionné
+- **Description de l'événement :** Un homme a été percuté par un train à la station Nation, entraînant des retards et une enquête.
+- **Exemple de citation :** "Un homme a été percuté par un train le mardi 5 novembre." 
+
+### Fait Marquant 2 : Problèmes de remboursement
+- **Date :** 2024-10-11
+- **Niveau d'impact :** Élevé
+- **Nombre de tweets :** 1
+- **Thématiques :** Service Client, Information Voyageur
+- **Sous-thématiques :** Manque d'information, Service non disponible
+- **Canaux associés :** Aucun mentionné
+- **Description de l'événement :** Un usager a été informé que le service après-vente ne propose pas de remboursement pour les achats effectués en gare.
+- **Exemple de citation :** "Nous sommes navrés de vous informer que notre service n'en propose pas."
+
+### Fait Marquant 3 : Problèmes de filets de protection animale
+- **Date :** 2024-10-11
+- **Niveau d'impact :** Élevé
+- **Nombre de tweets :** 2
+- **Thématiques :** Service Client
+- **Sous-thématiques :** Protection animale, Mauvaise gestion
+- **Canaux associés :** Aucun mentionné
+- **Description de l'événement :** Dénonciation des filets utilisés par la RATP, causant de la souffrance aux oiseaux.
+- **Exemple de citation :** "Dispositifs mal entretenus, inutiles et cruels."
+
+### Fait Marquant 4 : Manque d'information sur le RER B
+- **Date :** 2024-10-11
+- **Niveau d'impact :** Faible
+- **Nombre de tweets :** 1
+- **Thématiques :** Information Voyageur
+- **Sous-thématiques :** Manque d'information
+- **Canaux associés :** Aucun mentionné
+- **Description de l'événement :** Absence d'informations claires concernant l'accessibilité à la station Parc des Expositions.
+- **Exemple de citation :** "Il faut prendre le RER B et descendre à la station Parc des Expositions."
+
+### Fait Marquant 5 : Manque d'information sur le RER D
+- **Date :** 2024-10-11
+- **Niveau d'impact :** Faible
+- **Nombre de tweets :** 1
+- **Thématiques :** Information Voyageur
+- **Sous-thématiques :** Manque d'information
+- **Canaux associés :** Aucun mentionné
+- **Description de l'événement :** Un utilisateur exprime son mécontentement face à une désignation peu claire des trains.
+- **Exemple de citation :** "Le train pour Corbeil est maintenant désigné RER D."
+
+## Conclusion
+Les tweets analysés révèlent des préoccupations majeures concernant la sécurité des voyageurs, la qualité du service client et l'information voyageur. L'accident sur le RER A est particulièrement alarmant, tandis que les problèmes de remboursement et de protection animale soulèvent des questions éthiques. Transilien pourrait bénéficier d'une amélioration dans la communication et le traitement des incidents pour optimiser l'expérience voyageur.
