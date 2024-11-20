@@ -1,0 +1,119 @@
+# Rapport sur les Faits Marquants des Tweets concernant l'Expérience Voyageur avec Transilien
+
+## 1. Identification des Événements et Compte des Tweets
+
+Après analyse des résumés de tweets, plusieurs événements récurrents ont été identifiés, chacun avec le nombre de tweets qui en parlent :
+
+| Événement                                        | Nombre de Tweets |
+|--------------------------------------------------|------------------|
+| Manque d'information sur le RER E                | 18               |
+| Retards sur le RER A                             | 9                |
+| Insatisfaction concernant le service client sur le RER E | 4                |
+| Perturbation sur le RER B                         | 4                |
+| Problèmes de sécurité à la gare d'Ozoir-la-Ferrière | 1                |
+| Bon niveau d'information sur les initiatives de Transilien | 2                |
+| Appréciation des mesures de sécurité à la gare d'Ozoir-la-Ferrière | 1                |
+| Grève annoncée par les syndicats de la SNCF     | 3                |
+| Problèmes d'information sur les tickets et passes validité | 5                |
+| Confort et propreté dans le RER A                | 3                |
+| Aménagement des gares de la ligne RER E          | 1                |
+
+## 2. Top 5 des Faits Marquants
+
+### A. Faits Marquants Négatifs
+
+1. **Manque d'information sur le RER E**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 18
+   - **Thématiques :** Information Voyageur
+   - **Sous-thématiques :** Manque d'information
+   - **Canaux associés :** Aucun
+   - **Résumé :** Les voyageurs expriment une frustration grandissante face à l'absence d'informations claires sur la ligne RER E, impactant leur expérience de manière significative.
+
+2. **Retards sur le RER A**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 9
+   - **Thématiques :** Perturbation, Information Voyageur
+   - **Sous-thématiques :** Retards
+   - **Canaux associés :** Aucun
+   - **Résumé :** Plusieurs usagers rapportent des retards fréquents sur le RER A, ce qui perturbe leur quotidien.
+
+3. **Problèmes d'information sur les tickets et passes validité**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 5
+   - **Thématiques :** Information Voyageur
+   - **Sous-thématiques :** Manque d'information, Fausse information
+   - **Canaux associés :** Digital (Transilien.com)
+   - **Résumé :** Les voyageurs signalent des confusions sur la validité des tickets et passes, ainsi que des informations manquantes sur les horaires et tarifs.
+
+4. **Grève annoncée par les syndicats de la SNCF**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 3
+   - **Thématiques :** Perturbation, Information Voyageur
+   - **Sous-thématiques :** Manque d'information
+   - **Canaux associés :** Aucun
+   - **Résumé :** Les usagers expriment une forte inquiétude concernant la communication des conséquences de la grève prévue.
+
+5. **Insatisfaction concernant le service client sur le RER E**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 4
+   - **Thématiques :** Service Client
+   - **Sous-thématiques :** Manque de réactivité
+   - **Canaux associés :** Aucun
+   - **Résumé :** Les voyageurs expriment leur mécontentement face à la gestion du service client, qui ne répond pas efficacement à leurs préoccupations.
+
+### B. Faits Marquants Positifs
+
+1. **Bon niveau d'information sur les initiatives de Transilien**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Positif
+   - **Nombre de tweets :** 2
+   - **Thématiques :** Information Voyageur
+   - **Sous-thématiques :** Bon niveau d'information
+   - **Canaux associés :** Aucun
+   - **Résumé :** Certains tweets saluent les efforts de Transilien pour améliorer la communication et l'information envers les voyageurs.
+
+2. **Appréciation des mesures de sécurité à la gare d'Ozoir-la-Ferrière**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Positif
+   - **Nombre de tweets :** 1
+   - **Thématiques :** Sécurité
+   - **Sous-thématiques :** Bon niveau de sécurité
+   - **Canaux associés :** Aucun
+   - **Résumé :** Un tweet mentionne une satisfaction concernant l'augmentation de la présence policière à la gare, contribuant à rassurer les voyageurs.
+
+3. **Confort et propreté dans le RER A**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Modéré
+   - **Nombre de tweets :** 3
+   - **Thématiques :** Expérience à Bord
+   - **Sous-thématiques :** Confort
+   - **Canaux associés :** Aucun
+   - **Résumé :** Certains voyageurs rapportent une expérience positive liée au confort et à la propreté dans le RER A.
+
+4. **Aménagement des gares de la ligne RER E**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Positif
+   - **Nombre de tweets :** 1
+   - **Thématiques :** Expérience en Gare
+   - **Sous-thématiques :** Aménagement des gares
+   - **Canaux associés :** Aucun
+   - **Résumé :** Un tweet exprime une satisfaction concernant les améliorations apportées à l'expérience des voyageurs dans les nouvelles gares.
+
+5. **Perturbation sur le RER B**
+   - **Date :** 2024-10-11
+   - **Niveau d'impact :** Élevé
+   - **Nombre de tweets :** 4
+   - **Thématiques :** Perturbation
+   - **Sous-thématiques :** Retards
+   - **Canaux associés :** Aucun
+   - **Résumé :** Des voyageurs signalent des perturbations sur la ligne RER B, accentuant leur frustration.
+
+## 3. Conclusion
+
+Ce rapport met en lumière les préoccupations majeures des voyageurs concernant l'information voyageur et les perturbations sur les lignes Transilien, en particulier sur la ligne RER E. Les problèmes de communication, la gestion des retards et des grèves sont des sujets critiques qui nécessitent une attention immédiate pour améliorer l'expérience des voyageurs. Par ailleurs, les retours positifs sur les aménagements des gares et les initiatives de sécurité démontrent qu'il est possible d'améliorer l'expérience utilisateur, soulignant l'importance d'une communication proactive et claire de la part de Transilien.

@@ -40,5 +40,6 @@ Place the Excel file containing th RADARLY export in the root directory
 2. Run the script
 Run the map-reduce.py script to analyze tweets:
 ```
-python map-reduce.py
+python map-reduce.py --limit 1000
 ```
+The limit argument selects the number of rows of tweets to ingest in the summarisation algorithm

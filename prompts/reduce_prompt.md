@@ -12,5 +12,6 @@ Il est important de se focaliser sur les insatisfactions ou satisfaction client 
 
 ## Tâche
 
-1. Identifie le top 5 des faits marquant, négatifs et positifs depuis la liste des résumés des tweets.
-2. Ecrit un rapport structuré décrivant ces faits marquants en détail, incluant la date, le niveau d'impact, les thématiques et sous-thématiques et les canaux associés
+1. Identifie les tweets qui parle du même événement et compte le nombre de tweet par événement.
+2. Identifie le top 5 des faits marquant, négatifs et positifs depuis la liste des résumés des tweets en les triant par impact sur les voyageurs par rapport à la sévérité de l'evenemenent et du nombre de tweets le mentionnant
+3. Ecrit un rapport structuré décrivant ces faits marquants en détail, incluant la date, le niveau d'impact, le nombre de tweet approximatif mentionnant l'événement, les thématiques, sous-thématiques et les canaux associés, la description de l'événements et quelques exemples concrets de situations décrites dans les tweets avec des citations si disponible.

@@ -17,15 +17,19 @@ from dotenv import load_dotenv
 import asyncio
 import pprint
 from langchain_community.callbacks.manager import get_openai_callback
+import argparse
+
 
 # Load environment variables
 dotenv_path = ".env"
 load_dotenv(dotenv_path=dotenv_path)  # Load Azure OpenAI environment variables
 
 llm = AzureChatOpenAI(
-    model_name="gpt-4o",
-    deployment_name="gpt-4o",
-    temperature=0.5,
+    model_name="gpt-4o-mini",
+    # model_name="gpt-4o",
+    deployment_name="gpt-4o-mini",
+    # deployment_name="gpt-4o",
+    temperature=0.7,
 )
 
 map_prompt_name = "./prompts/map_prompt.md"
@@ -55,7 +59,7 @@ reduce_prompt_template = PromptTemplate(
 reduce_chain = reduce_prompt_template | llm | StrOutputParser()
 
 
-token_max = 10000
+token_max = 100000
 
 
 def length_function(documents: List[Document]) -> int:
@@ -190,25 +194,31 @@ async def get_summary_report(tweets_df: pd.DataFrame):
         {"contents": [row["combined"] for i, row in tweets_df.iterrows()]},
         {"recursion_limit": 10},
     ):
-        print(step)
+        print(list(step.keys()))
 
-    # Access total token counts
-    total_prompt_tokens = step.get("prompt_tokens", 0)
-    total_completion_tokens = step.get("completion_tokens", 0)
-    total_tokens = step.get("total_tokens", 0)
-    print("Total Prompt Tokens:", total_prompt_tokens)
-    print("Total Completion Tokens:", total_completion_tokens)
-    print("Total Tokens:", total_tokens)
     return step["generate_final_summary"]["final_summary"]
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Summarise tweets using LLM")
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Number of tweets to summarise. Default is None",
+    )
+
+    args = parser.parse_args()
+
     with open("graph.png", "wb") as f:
         f.write(app.get_graph().draw_mermaid_png())
 
     tweets_df = pd.read_excel("export-radarly-4625-documents-1732015114895.xlsx")
 
-    tweets_df = tweets_df[["Date", "Text", "Title", "Lignes"]].head(100)
+    if args.limit:
+        tweets_df = tweets_df[["Date", "Text", "Title", "Lignes"]].head(args.limit)
+    else:
+        tweets_df = tweets_df[["Date", "Text", "Title", "Lignes"]]
 
     # Concat the columns into 1 string that, combined column = "Date: <Date>; Text: <Text>; Title: <Title>; Lignes: <Lignes>"
     tweets_df["combined"] = tweets_df.apply(

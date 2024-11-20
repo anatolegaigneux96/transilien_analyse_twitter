@@ -28,7 +28,7 @@ Il est important de se focaliser sur les insatisfactions ou satisfaction client 
         - Fausse information
         - Incohérence entre les différents canaux de communication
     - Identifier les sous-thématiques pour les autres thémes.
-4. Pour "Information Voyageur", assigner un ou plusieurs canaux de communication à l'original du problème mentionné :
+4. Pour "Information Voyageur", assigner un ou plusieurs canaux de communication qui est mentionné dans le message du tweet. Si message ne mentionne aucun de ces canaux, ne rien mettre.
     - En gare
         - Annonce sonore
         - Affichage sur écran
@@ -43,5 +43,5 @@ Il est important de se focaliser sur les insatisfactions ou satisfaction client 
 5. Créer un résumé concis du tweet.
 
 ## Structure de Sortie
-Un résumé concis du tweet en format texte, contenant la date, le niveau d'impact, les thématiques et sous-thématiques et les canaux associés.
-Pas de résumé si le tweet n'est pas pertinant.
+Un résumé concis du tweet en format texte, contenant la date, le niveau d'impact voyageur, les thématiques et sous-thématiques, les canaux associés, la ligne ou station concernée et une description de l'événement incluant une citation du message.
+Ne pas créer de résumé si le tweet n'est pas pertinant à l'objectif.

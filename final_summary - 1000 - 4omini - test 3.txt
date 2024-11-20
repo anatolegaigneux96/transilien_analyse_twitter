@@ -1,0 +1,68 @@
+# Rapport sur l'Analyse des Tweets Relatifs à l'Expérience Voyageur de Transilien
+
+## 1. Identification des Événements et Comptage des Tweets
+
+Après analyse des résumés des tweets, plusieurs événements ont été identifiés. Voici le nombre de tweets par événement :
+
+- **Perturbations sur la ligne RER E (Retards, Manque d'information)** : 8 tweets
+- **Information Voyageur déficiente sur le RER A et RER B (Manque d'information)** : 7 tweets
+- **Insatisfaction générale concernant le service client (Retards, Comportement des voyageurs)** : 6 tweets
+- **Problèmes d'accessibilité et de sécurité dans les gares (Manque de personnel, Équipements en panne)** : 5 tweets
+- **Annonces positives sur les initiatives de Transilien (Bonnes initiatives)** : 4 tweets
+
+## 2. Top 5 des Faits Marquants
+
+### Faits Négatifs
+
+1. **Perturbations sur la ligne RER E**
+   - **Date** : 2024-09-11
+   - **Niveau d'impact voyageur** : Élevé
+   - **Nombre de Tweets** : 8
+   - **Thématiques** : Perturbation, Information Voyageur
+   - **Sous-thématiques** : Retards, Manque d'information
+   - **Canaux associés** : Aucun mentionné
+   - **Exemples** : Les usagers signalent des retards fréquents, créant des désagréments majeurs dans leurs trajets quotidiens.
+
+2. **Manque d'information sur la ligne RER A**
+   - **Date** : 2024-09-11
+   - **Niveau d'impact voyageur** : Élevé
+   - **Nombre de Tweets** : 7
+   - **Thématiques** : Information Voyageur
+   - **Sous-thématiques** : Manque d'information
+   - **Canaux associés** : Aucun mentionné
+   - **Exemples** : Les voyageurs se plaignent d'un manque d'informations claires sur les arrêts et les retards, rendant leurs trajets plus compliqués.
+
+3. **Insatisfaction envers le service client**
+   - **Date** : 2024-09-11
+   - **Niveau d'impact voyageur** : Élevé
+   - **Nombre de Tweets** : 6
+   - **Thématiques** : Service Client
+   - **Sous-thématiques** : Comportement des voyageurs
+   - **Canaux associés** : Aucun mentionné
+   - **Exemples** : Des comportements inappropriés de certains usagers sont signalés, ce qui incite à une gestion plus stricte et à une meilleure communication.
+
+### Faits Positifs
+
+4. **Initiatives positives de Transilien**
+   - **Date** : 2024-09-11
+   - **Niveau d'impact voyageur** : Positif
+   - **Nombre de Tweets** : 4
+   - **Thématiques** : Service Client
+   - **Sous-thématiques** : Bonnes initiatives
+   - **Canaux associés** : Aucun mentionné
+   - **Exemples** : Des utilisateurs expriment leur satisfaction vis-à-vis des nouvelles mesures de sécurité et de service mises en place par Transilien.
+
+5. **Améliorations d'accessibilité**
+   - **Date** : 2024-09-11
+   - **Niveau d'impact voyageur** : Élevé
+   - **Nombre de Tweets** : 5
+   - **Thématiques** : Expérience en Gare
+   - **Sous-thématiques** : Équipements en gare
+   - **Canaux associés** : Aucun mentionné
+   - **Exemples** : Les utilisateurs soulignent des équipements en panne, ce qui affecte l'accès et la sécurité dans certaines gares.
+
+## 3. Conclusion
+
+L'analyse des tweets met en lumière des préoccupations majeures des voyageurs, notamment une information déficiente sur les lignes RER E et A, ainsi que des perturbations fréquentes qui impactent leur expérience. Les retours négatifs dominent, soulignant la nécessité d'améliorer la communication et le service client de Transilien.
+
+Bien que certaines initiatives positives aient été reconnues, il est crucial que Transilien prenne en compte ces retours pour prioriser les améliorations nécessaires, notamment dans l'information voyageur et la gestion du service. Une attention particulière aux préoccupations des usagers pourrait renforcer leur expérience de voyage et améliorer leur satisfaction globale.

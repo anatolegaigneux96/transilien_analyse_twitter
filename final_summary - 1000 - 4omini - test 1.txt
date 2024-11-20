@@ -1,0 +1,88 @@
+# Rapport sur les Faits Marquants des Tweets concernant l'Expérience Voyageur pour Transilien
+
+## Introduction
+Ce rapport présente une synthèse des principaux faits marquants, tant négatifs que positifs, extraits des tweets analysés concernant l'expérience des voyageurs avec Transilien. Les résultats mettent en lumière les préoccupations et les satisfactions des usagers, permettant ainsi d'identifier des axes d'amélioration pour la société.
+
+## Top 5 des Faits Marquants Négatifs
+
+### 1. Manque d'information concernant les retards sur le RER D
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Élevé  
+- **Thématiques :** Perturbation, Information Voyageur  
+- **Sous-thématiques :** Retards, Manque d'information  
+- **Canaux associés :** En gare, Digital (Feed Twitter)  
+- **Résumé :** Un voyageur a signalé une attente de 22 minutes pour le RER D, avec une insatisfaction face à l'absence d'information concernant cette perturbation.
+
+### 2. Incohérence dans la gestion des navettes
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Élevé  
+- **Thématiques :** Perturbation, Information Voyageur, Service Client  
+- **Sous-thématiques :** Manque d'information, Fausse information  
+- **Canaux associés :** En gare, Digital (Feed Twitter)  
+- **Résumé :** Le tweet évoque une mauvaise gestion des navettes en l'absence de RER, où un agent SNCF a mal orienté le voyageur, entraînant une confusion quant à l'arrêt des navettes.
+
+### 3. Problème d'information sur le RER C
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Élevé  
+- **Thématiques :** Information Voyageur  
+- **Sous-thématiques :** Manque d'information  
+- **Canaux associés :** Digital (Feed Twitter)  
+- **Résumé :** Problème signalé sur le RER C concernant un manque d'information pour les voyageurs, soulignant une insatisfaction générale.
+
+### 4. Retards importants sur la ligne P
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Élevé  
+- **Thématiques :** Perturbation, Information Voyageur  
+- **Sous-thématiques :** Retards, Manque d'information  
+- **Canaux associés :** Digital (Feed Twitter)  
+- **Résumé :** Des travaux entraîneront une déviation de la ligne P, affectant certains arrêts. L'information diffusée pourrait être insuffisante pour informer les voyageurs en gare.
+
+### 5. Mauvaise anticipation concernant le renouvellement du matériel du RER C
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Élevé  
+- **Thématiques :** Information Voyageur  
+- **Sous-thématiques :** Manque d'information, Fausse information  
+- **Canaux associés :** Digital (Feed Twitter)  
+- **Résumé :** Le tweet critique le manque d'anticipation concernant le renouvellement du matériel du RER C, soulignant des informations erronées sur le gabarit des nouveaux RER.
+
+## Top 5 des Faits Marquants Positifs
+
+### 1. Satisfaction concernant les mails d'information
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Positif  
+- **Thématiques :** Information Voyageur  
+- **Sous-thématiques :** Bon niveau d'information  
+- **Canaux associés :** Digital (Feed Twitter)  
+- **Résumé :** Le tweet exprime une satisfaction concernant les mails d'information reçus, les qualifiant d'enrichissants.
+
+### 2. Bon niveau d'information sur la situation des trains
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Positif  
+- **Thématiques :** Information Voyageur  
+- **Sous-thématiques :** Bon niveau d'information  
+- **Canaux associés :** Digital (Feed Twitter)  
+- **Résumé :** Le tweet indique que les trains circulent bien entre Paris Saint-Lazare et Argenteuil malgré les travaux, soulignant un bon niveau d'information sur la situation actuelle.
+
+### 3. Ambiance agréable dans le RER E
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Positif  
+- **Thématiques :** Expérience à Bord  
+- **Sous-thématiques :** Satisfaction  
+- **Résumé :** Le voyageur exprime sa satisfaction concernant son expérience dans le RER E, mentionnant une ambiance agréable.
+
+### 4. Appréciation de la sécurité dans le RER B
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Positif  
+- **Thématiques :** Expérience en Gare  
+- **Sous-thématiques :** N/A  
+- **Résumé :** Le tweet mentionne plusieurs aspects positifs liés à l'expérience de voyage, notamment la sécurité du RER B.
+
+### 5. Feedback positif sur l'expérience à bord
+- **Date :** 2024-10-11  
+- **Niveau d'impact :** Positif  
+- **Thématiques :** Expérience à Bord  
+- **Sous-thématiques :** N/A  
+- **Résumé :** Un tweet souligne que la station est belle et possède une atmosphère agréable à l'intérieur, contribuant à une expérience positive pour les usagers.
+
+## Conclusion
+Les tweets analysés révèlent des préoccupations significatives concernant le manque d'information et les perturbations sur plusieurs lignes du réseau Transilien. Cependant, il est également important de noter les retours positifs concernant la qualité de l'information et l'expérience des usagers dans certains cas. Ces insights peuvent aider Transilien à mieux cibler ses efforts d'amélioration pour l'expérience voyageur.
