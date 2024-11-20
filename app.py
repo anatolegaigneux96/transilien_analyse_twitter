@@ -29,7 +29,7 @@ with st.expander("Contexte et Objectif"):
     )
 
 # Lire le contenu du fichier final_summary.txt
-with open("final_summary.txt", "r") as file:
+with open("final_summary.txt", "r", encoding="latin-1") as file:
     content = file.read()
 
 # Afficher le contenu avec le formatage approprié
