@@ -53,8 +53,11 @@ try:
         content = f.read()
 except UnicodeDecodeError:
     # Lire le contenu du fichier sélectionné
-    with open(os.path.join("summary_reports", selected_file), "r") as f:
+    with open(
+        os.path.join("summary_reports", selected_file), "r", encoding="latin-1"
+    ) as f:
         content = f.read()
+
 
 # Afficher le contenu avec le formatage approprié
 st.divider()
