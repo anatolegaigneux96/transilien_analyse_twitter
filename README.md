@@ -43,3 +43,6 @@ Run the map-reduce.py script to analyze tweets:
 python map-reduce.py --limit 1000
 ```
 The limit argument selects the number of rows of tweets to ingest in the summarisation algorithm
+
+## Lien de l'application streamlit
+https://transilien-analyse-twitter.streamlit.app/

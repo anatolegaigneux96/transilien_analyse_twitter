@@ -24,7 +24,7 @@ with st.expander("Contexte et Objectif"):
     Transilien souhaite résumer les tweets afin de suivre et d'améliorer l'expérience voyageur pour un projet de **"Voix du Client"**.
 
     ## Objectif
-    L'objectif est de mettre en évidence les détails essentiels des tweets, afin d'un résumé clair, objectif et concis qui aidera Transilien à comprendre les principaux problèmes et points positifs signalés par les voyageurs, afin de pouvoir apporter des améliorations.
+    L'objectif est de mettre en évidence les détails essentiels des tweets, afin de produire un résumé clair, objectif et concis qui aidera Transilien à comprendre les principaux problèmes et points positifs signalés par les voyageurs, afin de pouvoir apporter des améliorations.
     """,
         unsafe_allow_html=True,
     )
@@ -70,7 +70,7 @@ st.markdown(content, unsafe_allow_html=True)
 st.markdown(
     """
 ---
-<span style='font-size:12px;'>Application développée pour Transilien - Voix du Client</span>
+<span style='font-size:12px;'>Application Voix du Client - Transilien</span>
 """,
     unsafe_allow_html=True,
 )
