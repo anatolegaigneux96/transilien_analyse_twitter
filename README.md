@@ -46,3 +46,9 @@ The limit argument selects the number of rows of tweets to ingest in the summari
 
 ## Lien de l'application streamlit
 https://transilien-analyse-twitter.streamlit.app/
+
+## Run Streamlit
+```
+python run app.py
+```
+
